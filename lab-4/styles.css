@@ -124,5 +124,5 @@ footer {
   transition: 0.2s;
 }
 .paragraphs-add:hover {
-  opacity: 1;
+/*   opacity: 1; */
 }
